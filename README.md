@@ -24,4 +24,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&theme=tokyonight)
 <!-- wakatime stats -->
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 1 min     ████████████▒░░░░░░░░░░░░   48.89 % 
+TypeScript   2 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.13 % 
+Java         39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+CSS          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+```
 <!--END_SECTION:waka-->
