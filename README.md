@@ -23,4 +23,5 @@
 <!-- most used languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&theme=tokyonight)
 <!-- wakatime stats -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayankbhatt07141)](https://github.com/mayankbhatt07141/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
