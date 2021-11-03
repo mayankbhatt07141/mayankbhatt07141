@@ -26,6 +26,8 @@
 <!-- wakatime stats -->
 <!--START_SECTION:waka-->
 ```text
-
+HTML         31 mins         █████████████████▓░░░░░░░   71.23 % 
+TypeScript   10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 <!--END_SECTION:waka-->
