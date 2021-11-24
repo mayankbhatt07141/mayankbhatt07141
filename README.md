@@ -26,6 +26,9 @@
 <!-- wakatime stats -->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   23 mins         ███████████░░░░░░░░░░░░░░   44.65 % 
+JSON         11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 
+HTML         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
+CSS          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 ```
 <!--END_SECTION:waka-->
