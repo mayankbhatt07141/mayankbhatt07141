@@ -26,7 +26,7 @@
 <!-- wakatime stats -->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 37 mins    ███████████████▓░░░░░░░░░   62.15 % 
-HTML         57 mins         █████████░░░░░░░░░░░░░░░░   36.66 % 
+JavaScript   1 hr 37 mins    ███████████████░░░░░░░░░░   60.33 % 
+HTML         1 hr 2 mins     █████████▓░░░░░░░░░░░░░░░   38.52 % 
 ```
 <!--END_SECTION:waka-->
