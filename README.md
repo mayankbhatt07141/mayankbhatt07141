@@ -26,9 +26,9 @@
 <!-- wakatime stats -->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 23 mins   ██████████████████▒░░░░░░   73.74 % 
-CSS          1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JavaScript   4 hrs 23 mins   ██████████████████▓░░░░░░   75.25 % 
+CSS          1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
