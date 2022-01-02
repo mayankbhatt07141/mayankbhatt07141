@@ -22,14 +22,8 @@
 <!-- git stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankbhatt07141&show_icons=true&theme=tokyonight)
 <!-- most used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&theme=tokyonight)
-<!-- wakatime stats -->
-<!--START_SECTION:waka-->
-```text
-TypeScript   7 hrs 28 mins   ██████████████░░░░░░░░░░░   55.52 % 
-CSS          4 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.59 % 
-JavaScript   1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-<!--END_SECTION:waka-->
+
+
+![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&langs_count=10&hide_border=true&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankbhatt07141&hide_border=true&theme=tokyonight)
