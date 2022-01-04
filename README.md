@@ -18,7 +18,7 @@
 ![]( https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/npm/types/typescript?style=for-the-badge)
 
-
+<div align="center">
 <!-- git stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankbhatt07141&show_icons=true&theme=tokyonight)
 <!-- most used languages -->
@@ -27,3 +27,5 @@
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&langs_count=10&hide_border=true&layout=compact&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankbhatt07141&hide_border=true&theme=tokyonight)
+![Activity](https://activity-graph.herokuapp.com/graph?username=mayankbhatt07141&area=true&hide_border=true&theme=tokyonight)
+</div>
