@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=tokyonight&theme=tokyonight)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&theme=tokyonight)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&theme=tokyonight)
 ![](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white&theme=tokyonight)
 ![]( https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
@@ -24,7 +24,7 @@
 
 
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhatt07141&langs_count=10&hide_border=true&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankbhatt07141)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankbhatt07141&layout=compact&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankbhatt07141&hide_border=true&theme=tokyonight)
 ![Activity](https://activity-graph.herokuapp.com/graph?username=mayankbhatt07141&area=true&hide_border=false&theme=tokyonight)
 </div>
