@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mayank Bhatt</h1>
-<h3 align="center">Mca student at pantnagar university and aspiring software developer💻.✨</h3>
+<h3 align="center">Software developer💻.✨ at Maropost</h3>
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=mayankbhatt07141.mayankbhatt07141) -->
 
@@ -10,12 +10,14 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&theme=tokyonight)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&theme=tokyonight)
 ![](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white&theme=tokyonight)
-![]( https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
-![]( https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white)
-![]( https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
+![]( https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=Yellow)
+![]( https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=Blue)
+![]( https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=#913d04)
 ![]( https://img.shields.io/badge/MySQL-00599C?style=for-the-badge&logo=mysql&logoColor=white)
-![]( https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![]( https://img.shields.io/badge/Redux-00599C?style=for-the-badge&logo=redux&logoColor=white)
+![]( https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white)
+![]( https://img.shields.io/badge/Redux-00599C?style=for-the-badge&logo=redux&logoColor=purple)
+![]( https://img.shields.io/badge/ruby-00599C?style=for-the-badge&logo=ruby&logoColor=red)
+![]( https://img.shields.io/badge/rails-00599C?style=for-the-badge&logo=rail&logoColor=red)
 ![](https://img.shields.io/npm/types/typescript?style=for-the-badge)
 
 <div display="flex" flex-direction="column">
